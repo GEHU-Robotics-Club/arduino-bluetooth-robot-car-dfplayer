@@ -60,3 +60,19 @@ graph LR
 
 ![Hardware Prototype Setup](media/hardware_demo_1.jpg)
 
+
+---
+
+## 🏎️ High-Speed Suspension Race Chassis & Telemetry
+
+<table>
+  <tr>
+    <td width="100%" align="center">
+      <img src="media/high-speed-rc-suspension-telemetry-chassis.jpg" width="80%" alt="High-Speed Race Chassis" style="border-radius: 6px;" />
+      <br />
+      <b>High-Speed Differential Drive Race Chassis</b>
+      <br />
+      <i>4WD chassis with coilover spring suspension, aluminum heat sink brushed motor, and precision steering servo</i>
+    </td>
+  </tr>
+</table>
